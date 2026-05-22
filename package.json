@@ -1,0 +1,9 @@
+{
+  "name": "nana_srss",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Karl Dentrich",
+  "scripts": {
+    "start": "node srss.js"
+  }
+}
