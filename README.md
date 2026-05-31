@@ -11,3 +11,12 @@ Try to run plain old JavaScript at NodeJS inside a Docker container.
 
     docker run nana
 
+## WSL - Allow installation of Windows-Subsystem für Linux
+
+
+    Windows-Subsystem für Linux 2.7.3
+
+
+    https://aka.ms/wslinstall
+
+    wsl.exe --update
