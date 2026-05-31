@@ -3,8 +3,11 @@
 # https://www.youtube.com/watch?v=pg19Z8LL06w
 # https://www.youtube.com/watch?v=pg19Z8LL06w
 
-# Directives are UpperCASE:
+# Docker directives are UpperCASE:
 # https://docs.docker.com/reference/dockerfile
+
+# https://de.wikipedia.org/wiki/Alpine_Linux
+# https://www.alpinelinux.org/
 
 # BaseImage for NodeJS from docker-hub
 # https://hub.docker.com/_/node
@@ -34,4 +37,3 @@ CMD ["node", "srss.js"]
 # docker build -t nana  .
 # On CLI: RUN :
 # docker run nana
-
